@@ -1,0 +1,5 @@
+package com.AdamsPetsMod.adamsmod.core.init;
+
+public class BlockInit {
+
+}

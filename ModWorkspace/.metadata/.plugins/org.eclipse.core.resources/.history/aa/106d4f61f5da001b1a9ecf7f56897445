@@ -1,0 +1,5 @@
+package com.AdamsPetsMod.adamsmod.core.itemgroup;
+
+public class adamsmodItemGroup extends ItemGroup{
+
+}

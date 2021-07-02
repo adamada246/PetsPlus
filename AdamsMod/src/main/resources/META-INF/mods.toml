@@ -1,0 +1,24 @@
+modLoader="javafml" 
+loaderVersion="[36,)" 
+license="MIT"
+[[mods]]
+modId="adamsmod"
+version="${file.jarVersion}"
+displayName="Adam's Pet Mod"
+logoFile="examplemod.png" 
+credits="By Adam, thanks to Cy4 on youtube for helping me make this :)"
+description='''
+Adds mobs that look like pets of specific people I choose to add into the mod
+'''
+[[dependencies.adamsmod]] 
+    modId="forge" 
+    mandatory=true
+    versionRange="[36,)" 
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.adamsmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5,1.17)"
+    ordering="NONE"
+    side="BOTH"
