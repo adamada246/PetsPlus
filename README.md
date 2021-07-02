@@ -1,11 +1,11 @@
 # MinecraftPets Info
-UniqueID: adamsmod &nbsp;
-Mod Name: Adam's Pets Mod &nbsp;
+UniqueID: adamsmod        &nbsp;
+Mod Name: Adam's Pets Mod          &nbsp;
 
 
 # Technical info
-Mod Version: null &nbsp;
-Minecraft Version: 1.16.5 &nbsp;
+Mod Version: null          &nbsp;
+Minecraft Version: 1.16.5         &nbsp;
 
 
 # About this mod
