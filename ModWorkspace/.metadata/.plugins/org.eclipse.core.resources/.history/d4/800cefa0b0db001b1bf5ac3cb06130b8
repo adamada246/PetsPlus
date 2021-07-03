@@ -1,0 +1,21 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern": [
+		"LL",
+		"DD"
+	],
+	"key": {
+		"L":{
+			"item":"minecraft:block/wool"
+		},
+		"D":{
+			"tag":"minecraft:block/planks"
+		}	
+			
+		
+	},
+	"result": {
+		"item":"adamsmod:empty_dog_bed",
+		"count":1
+	}
+}

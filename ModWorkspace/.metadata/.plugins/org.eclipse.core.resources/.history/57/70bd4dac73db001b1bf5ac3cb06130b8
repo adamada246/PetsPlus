@@ -1,0 +1,22 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern": [
+		"WWW",
+		"WMW",
+		"WWW"
+	],
+	"key": {
+		"W":{
+			"item":"minecraft:wheat"
+		},
+		"M":{
+			"item":"minecraft:cooked_beef"
+		}	
+			
+		
+	},
+	"result": {
+		"item":"adamsmod:treat",
+		"count":3
+	}
+}

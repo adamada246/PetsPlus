@@ -1,3 +1,5 @@
 {
-	"item.adamsmod.treat":"Dog Treat"
+	"item.adamsmod.treat":"Basic Dog Treat",
+	"itemGroup.pets_mod":"Pets Plus",
+	"block.adamsmod.empty_dog_bed": "Dog Bed"
 }

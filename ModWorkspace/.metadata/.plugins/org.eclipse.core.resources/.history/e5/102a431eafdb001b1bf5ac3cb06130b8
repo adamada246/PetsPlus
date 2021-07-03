@@ -1,0 +1,21 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern": [
+		"LL",
+		"DD"
+	],
+	"key": {
+		"L":{
+			"item":"minecraft:wheat"
+		},
+		"D":{
+			"item":"minecraft:cooked_beef"
+		}	
+			
+		
+	},
+	"result": {
+		"item":"adamsmod:empty_dog_bed",
+		"count":1
+	}
+}

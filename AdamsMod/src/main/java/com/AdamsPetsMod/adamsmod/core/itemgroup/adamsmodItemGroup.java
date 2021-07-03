@@ -7,8 +7,8 @@ import net.minecraft.item.ItemStack;
 
 public class adamsmodItemGroup extends ItemGroup {
 
-	public static final adamsmodItemGroup ADAM_MOD = new adamsmodItemGroup(ItemGroup.TABS.length,
-			"adams_pets_mod");
+	public static final adamsmodItemGroup PETS_MOD = new adamsmodItemGroup(ItemGroup.TABS.length,
+			"pets_mod");
 
 	public adamsmodItemGroup(int index, String label) {
 		super(index, label);

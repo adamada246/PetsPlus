@@ -1,2 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy/>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="net.minecraftforge.registries.DeferredRegister"/>
+    <fullyQualifiedTypeName name="com.AdamsPetsMod.adamsmod.AdamsMod"/>
+    <fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+    <fullyQualifiedTypeName name="net.minecraft.item.ItemGroup"/>
+    <fullyQualifiedTypeName name="net.minecraft.block.Block"/>
+    <fullyQualifiedTypeName name="com.AdamsPetsMod.adamsmod.core.init.ItemInit"/>
+    <fullyQualifiedTypeName name="net.minecraft.item.Food.Builder"/>
+    <fullyQualifiedTypeName name="net.minecraft.potion.Effects"/>
+</qualifiedTypeNameHistroy>

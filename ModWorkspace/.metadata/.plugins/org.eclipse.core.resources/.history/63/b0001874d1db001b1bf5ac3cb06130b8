@@ -1,0 +1,7 @@
+package com.AdamsPetsMod.adamsmod.common.empty_dog_bed;
+
+import net.minecraft.block.Block;
+
+public class EmptyDogBed extends Block {
+
+}

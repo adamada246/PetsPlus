@@ -1,0 +1,19 @@
+{
+    "variants": {
+        "facing=east": {
+            "model": "adamsmod:block/empty_dog_bed",
+            "y": 90
+        },
+        "facing=north": {
+            "model": "adamsmod:block/empty_dog_bed"
+        },
+        "facing=south": {
+            "model": "adamsmod:block/empty_dog_bed",
+            "y": 180
+        },
+        "facing=west": {
+            "model": "adamsmod:block/empty_dog_bed",
+            "y": 270
+        }
+    }
+}

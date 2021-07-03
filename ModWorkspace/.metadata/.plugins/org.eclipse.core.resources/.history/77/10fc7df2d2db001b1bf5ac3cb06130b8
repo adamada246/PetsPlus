@@ -1,0 +1,27 @@
+package com.AdamsPetsMod.adamsmod.common.empty_dog_bed;
+
+import net.minecraft.block.Block;
+import net.minecraft.block.BlockState;
+import net.minecraft.item.BlockItemUseContext;
+import net.minecraft.state.StateContainer.Builder;
+
+public class EmptyDogBed extends Block {
+
+	public EmptyDogBed(Properties Properties) {
+		super(Properties);
+		
+	}
+	
+
+	@Override
+	public BlockState getStateForPlacement(BlockItemUseContext context) {
+		return;
+	}
+	
+	@Override
+	protected void createBlockStateDefinition(Builder<Block, BlockState> builder) {
+
+	}
+	
+	
+}

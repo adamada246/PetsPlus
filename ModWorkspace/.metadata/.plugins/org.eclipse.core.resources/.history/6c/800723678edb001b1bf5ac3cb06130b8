@@ -1,0 +1,24 @@
+package com.AdamsPetsMod.adamsmod.core.init;
+
+import com.AdamsPetsMod.adamsmod.AdamsMod;
+
+import net.minecraft.block.AbstractBlock;
+import net.minecraft.block.Block;
+import net.minecraft.block.SoundType;
+import net.minecraft.block.material.Material;
+import net.minecraft.block.material.MaterialColor;
+import net.minecraftforge.common.ToolType;
+import net.minecraftforge.fml.RegistryObject;
+import net.minecraftforge.registries.DeferredRegister;
+import net.minecraftforge.registries.ForgeRegistries;
+
+public class BlockInit {
+
+	public static final DeferredRegister<Block> BLOCKS = DeferredRegister.create(ForgeRegistries.BLOCKS,
+			AdamsMod.MOD_ID);
+
+	public static final RegistryObject<Block> EMPTY_DOG_BED = BLOCKS.register("empty_dog_bed",
+			() -> new Block(AbstractBlock.Properties.of(Material.WOOL, MaterialColor.WOOL).instabreak()
+					.harvestTool(ToolType.AXE).sound(SoundType.WOOL)));
+
+}

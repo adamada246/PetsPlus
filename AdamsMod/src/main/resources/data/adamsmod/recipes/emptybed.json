@@ -1,0 +1,21 @@
+{
+	"type":"minecraft:crafting_shaped",
+	"pattern": [
+		"DLD",
+		"DDD"
+	],
+	"key": {
+		"L":{
+			"item":"minecraft:white_wool"
+		},
+		"D":{
+			"item":"minecraft:oak_slab"
+		}	
+			
+		
+	},
+	"result": {
+		"item":"adamsmod:empty_dog_bed",
+		"count":1
+	}
+}

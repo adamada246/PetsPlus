@@ -1,0 +1,8 @@
+{
+	"parent": "block/cube_all",
+	"textures": {
+		"0":"adamsmod:blocks/plank.png",
+		"1":"adamsmod:blocks/wool.png",
+		"particle": "adamsmod:blocks/plank.png"
+	}
+}
